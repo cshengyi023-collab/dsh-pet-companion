@@ -1,0 +1,12 @@
+node_modules/
+*.tgz
+*.log
+__pycache__/
+*.pyc
+试音缓存/
+朗读台/output/
+companion-state.json
+.env
+.DS_Store
+Thumbs.db
+patches/plugin-icon/out/

@@ -1,0 +1,5 @@
+# dsh-pet-companion —— 陪伴面板插件
+# 宿主半侧目前为空（纯浏览器 UI）；浏览器半侧由 package.json 的 dsh.client 声明发布。
+- insert:
+    - id: pet-companion
+      name: dsh-pet-companion

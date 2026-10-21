@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "quiet_hours": [
+    0,
+    7
+  ],
+  "items": {
+    "pomodoro": {
+      "on": false,
+      "work_min": 25,
+      "break_min": 5
+    },
+    "sit_reminder": {
+      "on": true,
+      "every_min": 45
+    },
+    "water": {
+      "on": true,
+      "every_min": 45
+    },
+    "hourly_greeting": {
+      "on": false
+    }
+  }
+}
