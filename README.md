@@ -6,6 +6,8 @@
 
 > 桌宠形象与语音来自第三方插件（dsh-pet / dsh-xiaomi-tts），本仓库只包含我们自己写的插件、工具与补丁脚本。
 
+📖 **插件介绍**：[INTRO.md](./INTRO.md) · ⚠️ **现在还不足的地方**：[LIMITATIONS.md](./LIMITATIONS.md) · [English](./README.en.md)
+
 ---
 
 ## 一、插件：dsh-pet-companion

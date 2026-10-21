@@ -27,7 +27,12 @@
     "lib",
     "cordis.patch.yml",
     "assets/plugin-icon.png",
-    "README.md"
+    "README.md",
+    "README.en.md",
+    "INTRO.md",
+    "LIMITATIONS.md",
+    "NOTICE-ARTWORK.md",
+    "LICENSE"
   ],
   "keywords": [
     "dsh",
