@@ -1,7 +1,7 @@
 {
   "name": "dsh-pet-companion",
-  "version": "0.2.0",
-  "description": "小鲸鲸陪伴面板 v0.2：番茄钟（进度环+今日统计）、待办便签、喝水/久坐提醒、课程讲解、作业辅导；本地功能 0 token，模型功能标注花费。",
+  "version": "0.3.0",
+  "description": "小鲸鲸陪伴面板 v0.3：专注计时（番茄钟/正计时/自定义倒计时）、待办便签、喝水/久坐提醒、课程讲解、作业辅导；本地功能 0 token，模型功能标注花费。",
   "type": "module",
   "main": "lib/index.js",
   "icon": "assets/plugin-icon.png",
