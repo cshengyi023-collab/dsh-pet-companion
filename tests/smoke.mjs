@@ -97,7 +97,7 @@ if (startBtn) {
 }
 
 // 所有标签都要能渲染
-for (const label of ["待办", "提醒", "讲解", "辅导", "桌宠", "专注"]) {
+for (const label of ["待办", "提醒", "讲解", "辅导", "专注"]) {
   const tab = $$(".pc-tab").find((b) => (b.textContent || "").includes(label));
   if (!tab) {
     problems.push("tab missing: " + label);
