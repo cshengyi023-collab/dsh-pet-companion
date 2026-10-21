@@ -32,10 +32,21 @@
   "keywords": [
     "dsh",
     "dsh-plugin",
+    "deepseek-harness",
     "pet",
     "companion",
     "pomodoro",
-    "tutor"
+    "todo",
+    "study",
+    "tts"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cshengyi023-collab/dsh-pet-companion.git"
+  },
+  "homepage": "https://github.com/cshengyi023-collab/dsh-pet-companion#readme",
+  "bugs": {
+    "url": "https://github.com/cshengyi023-collab/dsh-pet-companion/issues"
+  }
 }
